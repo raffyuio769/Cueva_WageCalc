@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cueva_WageCalc</string>
+    <string name="emptitle">Wage Calculator</string>
+    <string name="empsal">EMPLOYEE SALARY</string>
+    <string name="emptax">EMPLOYEE TAX</string>
+    <string name="netsal">NETSALARY</string>
+    <string name="ok">Ok</string>
+    <string name="clear">Clear</string>
+</resources>
